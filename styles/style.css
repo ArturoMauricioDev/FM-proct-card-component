@@ -31,7 +31,7 @@ body {
     overflow: hidden;
 }
 
-.product-container img {
+.product-container picture img {
     width: 100%;
 }
 
